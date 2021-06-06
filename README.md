@@ -1,8 +1,7 @@
 ### Hello world 👋
 
-- 📱 iOS apps developer, I've created [GPX viewer](https://apps.apple.com/ch/app/gpx-viewer/id1511582047?l=fr) app.
+- 📱 iOS apps developer, I've created [GPX viewer](https://apps.apple.com/ch/app/gpx-viewer/id1511582047?l=fr) app. ❣️Swift, SwiftUI, UIKit, Objective-C (🦖)
 
-- ❣️ Swift, SwiftUI, UIKit, Objective-C (🦖)
 - 🧑🏻‍💻 I work in my own company, [EDSI-Tech Sàrl](), as IT Business Analyst and software engineer.
 - 🎒 I also teach computer science at [ETML](https://www.etml.ch/).
 - 🏕 Hiking in Switzerland mountains.
