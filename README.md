@@ -10,4 +10,4 @@
 
 As most of my apps are made for my company or for private use, you won't find a lot of public repos. But I still publish open source example projects or libraries you can use on your own apps.
 
-If you need to contact me, you can access my [contact page](https://contact.gander.family).
+If you need to contact me, you can access my [contact page](https://contact.gander.family?locale=en).
