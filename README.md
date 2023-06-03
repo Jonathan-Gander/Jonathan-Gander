@@ -2,7 +2,7 @@
 
 - 📱 iOS developer, I've created [GPX viewer](https://apps.apple.com/ch/app/gpx-viewer/id1511582047) app. ❣️Swift, SwiftUI, UIKit, Objective-C
 
-- 🧑🏻‍💻 I work in my own company, [EDSI-Tech Sàrl](https://edsi-tech.com), as IT Business Analyst and software engineer.
+- 🧑🏻‍💻 I work in the company I founded (and sold in 2023) [EDSI-Tech Sàrl](https://edsi-tech.com), as IT Business Analyst and software engineer.
 - 🎒 I also teach computer science and project management at [ETML](https://www.etml.ch/) and [ETML-ES](https://www.etml-es.ch/).
 - 🏕 I like hiking in Switzerland mountains.
 - ⚡️ Fun fact: I spend more time on developing GPX viewer than actually hiking. 😆
